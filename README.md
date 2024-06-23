@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/kalihari90/frontend-mentor-2](Solution)
-- Live Site URL: [https://kalihari90.github.io/frontend-mentor-2/](Live)
+- Solution URL: [Solution](https://github.com/kalihari90/frontend-mentor-2)
+- Live Site URL: [Live](https://kalihari90.github.io/frontend-mentor-2/)
 
 ## My process
 
