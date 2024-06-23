@@ -41,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-I've learned using more information about sizes and spaces from figma file. The most challenging thing was making perfect yellow label "Learning", because when I used flexbox it's turned into block element even when I changed display property do "inline-block". Propably display wasn't problematic but default flexbox behavior which makes all content take all free space like block elements do. I just put that label word into span and it works fine.
+I've learned using more information about sizes and spaces from figma file. I used it and planned my code better - for example using flexbox with gaps for spacing elements. The most challenging thing was making perfect yellow label "Learning", because when I used flexbox it's turned into block element even when I changed display property do "inline-block". Propably display wasn't problematic but default flexbox behavior which makes all content take all free space like block elements do. I just put that label word into span and it works fine.
 
 ## Author
 
